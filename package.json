@@ -1,0 +1,10 @@
+{
+  "name": "@csmtools/fadegradients",
+  "version": "1.0.0",
+  "description": "A small package for creating css gradients by fade percentages in CSGO/CS2",
+  "main": "index.js",
+  "repository": "https://github.com/CSMTools/FadeGradients",
+  "author": "Albin Hedwall",
+  "license": "GPL-3.0",
+  "private": false
+}
