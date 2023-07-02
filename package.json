@@ -1,6 +1,6 @@
 {
   "name": "@csmtools/fadegradients",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A small package for creating css gradients by fade percentages in CSGO/CS2",
   "main": "build/index.js",
   "type": "module",
